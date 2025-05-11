@@ -1,6 +1,6 @@
 # 🛒 SoftSell
 
-**SoftSell** is a platform designed to help users sell their unused software licenses.  
+[SoftSell](https://your-project-name.vercel.app) is a platform designed to help users sell their unused software licenses.  
 Built with **Next.js** and **Tailwind CSS**, it offers a modern, user-friendly interface with powerful features and an interactive contact form.
 
 ---
@@ -48,3 +48,7 @@ npm install
 # Start the development server
 npm run dev
 ```
+
+## Vercel Deployment
+
+The project is deployed and live on Vercel. You can view the live demo of the project here: [SoftSell Demo](https://soft-sell-ashen.vercel.app/).
