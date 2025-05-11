@@ -41,7 +41,7 @@ function Testimonials() {
             <img
               src={current.image}
               alt={current.name}
-              className="w-24 h-34 rounded-full object-cover border-2 border-blue-600"
+              className="w-20 h-20 sm:w-24 sm:h-24 rounded-full object-cover border-2 border-blue-600"
             />
             <div className="text-left">
               <h3 className="text-lg font-semibold text-gray-800">
