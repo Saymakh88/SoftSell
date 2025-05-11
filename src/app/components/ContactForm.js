@@ -47,9 +47,7 @@ function ContactForm() {
 
   return (
     <section id="contact" className="py-16 bg-white px-4">
-      <h2 className="text-3xl font-bold mb-8 text-center text-black">
-        Contact Us
-      </h2>
+      <h2 className="text-3xl font-bold mb-8 text-center text-black">Contact Us</h2>
 
       <form
         onSubmit={handleSubmit}
