@@ -37,7 +37,7 @@ Once the app is running, you can:
 
 ```bash
 # Clone the repository
-git clone https://github.com/saymakh888/softsell.git
+git clone https://github.com/saymakh88/softsell.git
 
 # Navigate into the directory
 cd softsell
